@@ -36,6 +36,8 @@ The poster can be found [HERE](https://www.aiyoggle.me/publication/ppgnet-cvpr19
 
 Please note that the code requires the GPU memory to be at least 24GB. For GPU with memory smaller than 24GB, you can use a smaller batch with `--batch-size` parameter and/or change the `--block-inference-size` parameter in `train.sh` to be a smaller integer to avoid the out-of-memory error.
 
+5. run on the Cluster
+
 ## Citation
 
 Please cite our paper for any purpose of usage.
